@@ -3,7 +3,7 @@ filename: style.css
 author: Joshua White
 created: 04/04/22
 modified by: Shreeya Shrestha
-last modified: 05/04/22
+last modified: 08/04/22
 description:  COS10026 Assignment 1 (Group)
 */
 
@@ -29,7 +29,7 @@ header h1{
     margin-top: 0px;
     background-image: url("ZEN5-A.jpg");
     border-bottom: 1em double white;
-    
+      
 }
 nav a {
     display: inline-block;
@@ -242,6 +242,7 @@ footer {
   }
 
 .uni {
+    margin-left:30%;
     text-align: center;
     background-color:#295ba1;
     display: inline-block;
@@ -310,5 +311,5 @@ hr {
     box-shadow: 10px 10px 5px grey;
 }
 form {
-    background-color: #fffffe;/* #fffffe */
+    background-color: #fffffe;
 }
