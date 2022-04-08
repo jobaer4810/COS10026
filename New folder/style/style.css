@@ -50,7 +50,7 @@ nav a {
 /*topic page individual header*/
 #page_header {
     display: block;
-    padding-left: 38%;
+    padding-left: 18%;
 
     position: relative;
     display:block;
@@ -242,7 +242,7 @@ footer {
   }
 
 .uni {
-    margin-left:30%;
+    margin-left:32%;
     text-align: center;
     background-color:#295ba1;
     display: inline-block;
